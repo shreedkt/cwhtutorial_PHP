@@ -1,0 +1,4 @@
+This is a File. For Reading Purpose through PHP. 
+readfile("myfile.txt"); 
+Jay sanidev.
+Forth Line.

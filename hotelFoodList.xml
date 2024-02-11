@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foodlist>
+  <fooditem>
+    <name>Pizza</name>
+    <cost> 499</cost>
+  </fooditem>
+  <fooditem>
+    <name>Chat</name>
+    <cost> 70</cost>
+  </fooditem>
+  <fooditem>
+    <name>Paneer Chili</name>
+    <cost> 100</cost>
+  </fooditem>
+  <fooditem>
+    <name>Litti Chokha</name>
+    <cost> 40</cost>
+  </fooditem>
+</foodlist>

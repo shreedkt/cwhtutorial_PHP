@@ -1,0 +1,4 @@
+This senances i want to add in the myfile1.txt 
+Another Text i want to add
+Third Line i wnat to add
+This is being appended to the file 
